@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hexo——轻量、简易、高逼格的博客]]></title>
+    <title><![CDATA[How]]></title>
+    <url>%2F2019%2F04%2F05%2FHow%2F</url>
+    <content type="text"><![CDATA[dow you konw]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[牛逼的技能]]></title>
     <url>%2F2019%2F04%2F05%2F201904050658%2F</url>
-    <content type="text"><![CDATA[123$$\sum_&#123;i=1&#125;^n a_i=0$$$$\sum_&#123;i=1&#125;^n a_i=0$$ 特么内容纳额]]></content>
+    <content type="text"><![CDATA[你牛逼]]></content>
       <tags>
         <tag>IT技术</tag>
         <tag>前端</tag>
