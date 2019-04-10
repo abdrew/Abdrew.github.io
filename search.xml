@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title><![CDATA[How]]></title>
-    <url>%2Fabdrew.github.io%2F2019%2F04%2F05%2FHow%2F</url>
+    <url>%2F2019%2F04%2F05%2FHow%2F</url>
     <content type="text"><![CDATA[dow you konw]]></content>
   </entry>
   <entry>
     <title><![CDATA[牛逼的技能]]></title>
-    <url>%2Fabdrew.github.io%2F2019%2F04%2F05%2F201904050658%2F</url>
+    <url>%2F2019%2F04%2F05%2F201904050658%2F</url>
     <content type="text"><![CDATA[你牛逼]]></content>
       <tags>
         <tag>IT技术</tag>
@@ -16,17 +16,17 @@
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2Fabdrew.github.io%2F2019%2F04%2F04%2Fhello-world%2F</url>
+    <url>%2F2019%2F04%2F04%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
-    <title><![CDATA[关于]]></title>
-    <url>%2Fabdrew.github.io%2Fabout%2Findex.html</url>
-    <content type="text"><![CDATA[大家好，我是XXX。欢迎来到我的个人技术博客。 这里用markdown写下你的简介，就跟平时写md一样就可以了。]]></content>
+    <title><![CDATA[读书]]></title>
+    <url>%2Freading%2Findex.html</url>
+    <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[读书]]></title>
-    <url>%2Fabdrew.github.io%2Freading%2Findex.html</url>
-    <content type="text"></content>
+    <title><![CDATA[关于]]></title>
+    <url>%2Fabout%2Findex.html</url>
+    <content type="text"><![CDATA[大家好，我是XXX。欢迎来到我的个人技术博客。 这里用markdown写下你的简介，就跟平时写md一样就可以了。]]></content>
   </entry>
 </search>
